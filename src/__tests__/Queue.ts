@@ -3,10 +3,13 @@ import Queue from "@code/Queue";
 test("queue", function () {
     const list = new Queue<number>();
 
+    console.log(list);
+
     list.enqueue(5);
     list.enqueue(7);
     list.enqueue(9);
 
+    console.log(list)
     expect(list.deque()).toEqual(5);
     expect(list.length).toEqual(2);
 

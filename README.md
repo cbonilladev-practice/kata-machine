@@ -1,3 +1,13 @@
+## Foreward
+These are my answers for Prime's FrontendMaster's course. It includes both the instructor's code and those not explicitly completed in the coursework. My work is completed using Class-based notation, but it should be easily convertible to Type-based notation (as is the case w/ the instructor's format). 
+
+This is only due to familiarity, and I probably should've completed them using Types given that the course is based on Typescript. That said, it can be completed using other language and format structures as well. Regardless, the tests are 🟩.
+
+I've also included diagrams for most, if not all, course sections in the following repo. They're created using Excalidraw, which you can view within VSCode using the Excalidraw extension.
+```
+diagrams/
+```
+These diagrams closely resemble Prime's. As 🔥 as they were originally, they could be a bit hard to read so I figured it'd be nice to clean them up. Good luck!
 ## Developed live on twitch
 [ThePrimeagen](https://twitch.tv/ThePrimeagen)
 
